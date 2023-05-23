@@ -101,4 +101,4 @@ if __name__ == '__main__':
 
     if user_2.is_valid_password("No pwd"):
         print("is_valid_password should return False if no password set \
- 
+ before") 
